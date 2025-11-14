@@ -222,8 +222,8 @@ cd Project-HealthCare-Provider-Analysis</code></pre>
 
 <p>
 👨‍💻 <b>Saiteja Mudapalli</b><br>
-📧 <i>mudapallisaiteja@gmail.com</i><br>
-🔗 <a href="https://github.com/saitejamudapalli" target="_blank">GitHub Profile</a>
+📧 <i>nirja.gupta1608@gmail.com</i><br>
+🔗 <a href="https://github.com/nirja1216" target="_blank">GitHub Profile</a>
 </p>
 
 ---
@@ -254,4 +254,4 @@ cd Project-HealthCare-Provider-Analysis</code></pre>
 
 ---
 
-<h3 align="center">💡 Developed with ❤️ by <b>Saiteja Mudapalli</b></h3>
+<h3 align="center">💡 Developed with ❤️ by <b>Nirja Gupta</b></h3>
